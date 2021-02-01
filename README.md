@@ -1,12 +1,5 @@
-# 👋
-
-I'm Jenil, a developer based out of 🇮🇳 (previously SF 🇺🇸). I believe in building minimal, well-designed and simplistic products. Lately, I've been reading a lot of neuroscience and occasionally writing about finance on my [blog](https://jenil.substack.com/p/coming-soon). I've spent the past few years pursuing research on [crypto](https://github.com/jenil04/token-reward-protocol), and understanding the idea of trust.
-
-## Fun facts ⚡️
-
-- I'm a professional table-tennis 🏓 player (former north-west champion in 🇮🇳).
-- I'm an open water diver 🏊 🌊 and occasionally like to go surfing 🏄.
-
-## Reach out ☕️
-
-#### You can reach out to me on [twitter](https://twitter.com/jenilkr), or have a conversation with me over a cup of chai 😀☕️.
+- 👋 I'm Jenil, I like building things that contribute towards human/world progress
+- 🛸 Currently, I'm building [Coinvise](https://coinvise.co): create and exchange personal/community owned branded cryptocurrencies
+- 🪐 I'm also hacking on GPT3 to build automated emails, customer support and content marketing
+- 🏓 In my free time, I like to play table tennis (former north-west champion in 🇮🇳), go open water diving 🏊 🌊 and occasionally like to go surfing 🏄.
+- ☕️ reach out to me on [twitter](https://twitter.com/0xjenil)
